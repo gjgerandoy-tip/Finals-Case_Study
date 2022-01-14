@@ -1,0 +1,14 @@
++++ R2: executing command 'show ip interface brief' +++
+show ip interface brief
+Interface                  IP-Address      OK? Method Status                Protocol
+FastEthernet0/0            192.168.0.1     YES manual up                    up      
+Serial0/0                  10.10.10.2      YES manual up                    up      
+FastEthernet0/1            unassigned      YES unset  administratively down down    
+Serial0/1                  unassigned      YES unset  administratively down down    
+Serial0/2                  unassigned      YES unset  administratively down down    
+FastEthernet1/0            unassigned      YES unset  administratively down down    
+Serial2/0                  unassigned      YES unset  administratively down down    
+Serial2/1                  unassigned      YES unset  administratively down down    
+Serial2/2                  unassigned      YES unset  administratively down down    
+Serial2/3                  unassigned      YES unset  administratively down down    
+R2#

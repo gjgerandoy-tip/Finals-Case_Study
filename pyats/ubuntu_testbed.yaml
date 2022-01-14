@@ -1,0 +1,12 @@
+devices:
+  glen:
+    connections:
+      cli:
+        ip: 192.168.0.2
+        protocol: ssh
+    credentials:
+      default:
+        password: 'p@ssw0rd!'
+        username: glen
+    os: linux
+    type: linux
